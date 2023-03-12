@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body{
+    font: normal 1em 'Arial','sens-sarine';
+    background-image:linear-gradient(to right,rgb(53, 9, 172),rgb(4, 8, 212));   
+}
+h1{
+    color:rgb(224, 202, 4);
+}
+h1#principal{
+    color:rgb(255, 255, 255);
+    text-align:center;
+    background-color: rgb(16, 2, 78);
+}
+h2{
+    color: rgb(112, 114, 7);
+}
+p{
+    color:white;
+    text-align:justify;
+}
